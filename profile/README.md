@@ -18,42 +18,10 @@
 
 ### 研究方向 · Research & Projects
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left">方向 / 项目</th>
-      <th align="left">简介</th>
-      <th align="center">状态</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>📖 飞跃手册</b><br/><sub><a href="https://winbeau.top">winbeau.top</a></sub></td>
-      <td>学生社群驱动的飞跃笔记站——笔记 / 资料库 / CCF 截稿追踪 / 学分统计，全栈 React + FastAPI。</td>
-      <td align="center">🟢 线上运行</td>
-    </tr>
-    <tr>
-      <td><b>🤖 AI4SE</b></td>
-      <td>LLM 驱动的代码生成、自动程序修复与静态程序分析。</td>
-      <td align="center">🟢 进行中</td>
-    </tr>
-    <tr>
-      <td><b>🛡️ 可信智能</b></td>
-      <td>深度模型的鲁棒性、可解释性与安全测试。</td>
-      <td align="center">🟢 进行中</td>
-    </tr>
-    <tr>
-      <td><b>⚙️ 系统与基础设施</b></td>
-      <td>分布式训练、高性能推理与 MLOps 流水线。</td>
-      <td align="center">🔵 孵化中</td>
-    </tr>
-    <tr>
-      <td><b>📊 实证软件工程</b></td>
-      <td>软件仓库挖掘与大规模代码质量实证研究。</td>
-      <td align="center">🟡 筹备中</td>
-    </tr>
-  </tbody>
-</table>
+| 项目 | 简介 | 技术 | 状态 |
+| :-- | :-- | :--: | :--: |
+| [**📖 飞跃手册**](https://github.com/XjuSelab/xju-feiyue) | 面向新疆大学在校生与校友的开放知识库 / 飞跃笔记站 | `React` · `FastAPI` | 🟢 线上 |
+| [**🐧 FluxEnv**](https://github.com/XjuSelab/FluxEnv) | 一键 Ubuntu 环境初始化，集成 Vim · Zsh · Starship | `Shell` | 🟢 维护中 |
 
 ---
 
@@ -82,7 +50,7 @@
 
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2FXjuSelab&query=%24.public_repos&label=%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93&color=2383E2&style=flat-square&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2FXjuSelab&query=%24.followers&label=%E5%85%B3%E6%B3%A8%E8%80%85&color=0F7B6C&style=flat-square&logo=github&logoColor=white)
-![Views](https://komarev.com/ghpvc/?username=XjuSelab&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE&color=9065B0&style=flat-square)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=XjuSelab.profile&left_text=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE&right_color=9065B0)
 ![Since](https://img.shields.io/badge/%E6%88%90%E7%AB%8B-2026.02-37352F?style=flat-square&logo=git&logoColor=white)
 
 </div>
