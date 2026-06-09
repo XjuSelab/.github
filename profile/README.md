@@ -9,7 +9,8 @@
 > 以工程的严谨沉淀研究，用开源的方式连接下一届。<br/>
 > _Distilling research with engineering rigor — open by default._
 
-[![Homepage](https://img.shields.io/badge/飞跃手册-feiyue.selab.top-0F7B6C?style=flat-square&logo=cloudflare&logoColor=white)](https://feiyue.selab.top)
+[![主页](https://img.shields.io/badge/主页-selab.top-2383E2?style=flat-square&logo=githubpages&logoColor=white)](https://selab.top)
+[![飞跃手册](https://img.shields.io/badge/飞跃手册-feiyue.selab.top-0F7B6C?style=flat-square&logo=cloudflare&logoColor=white)](https://feiyue.selab.top)
 ![Open Source](https://img.shields.io/badge/Open%20Source-by%20default-37352F?style=flat-square&logo=git&logoColor=white)
 
 </div>
@@ -50,7 +51,7 @@
 
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2FXjuSelab&query=%24.public_repos&label=%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93&color=2383E2&style=flat-square&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2FXjuSelab&query=%24.followers&label=%E5%85%B3%E6%B3%A8%E8%80%85&color=0F7B6C&style=flat-square&logo=github&logoColor=white)
-![Views](https://visitor-badge.laobi.icu/badge?page_id=XjuSelab.profile&left_text=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE&right_color=9065B0)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=XjuSelab.profile&left_text=Profile%20Views&right_color=9065B0)
 ![Since](https://img.shields.io/badge/%E6%88%90%E7%AB%8B-2026.02-37352F?style=flat-square&logo=git&logoColor=white)
 
 </div>
