@@ -2,7 +2,7 @@
 
 # XjuSelab
 
-### 新疆大学 · 软件工程实验室
+### 新疆大学 · 软件开发实验室
 
 <sub>Software Engineering Lab · Xinjiang University</sub>
 
@@ -90,5 +90,5 @@
 ---
 
 <div align="center">
-<sub>新疆大学软件工程实验室 · PR 与合作欢迎 · <a href="https://github.com/XjuSelab">github.com/XjuSelab</a></sub>
+<sub>新疆大学软件开发实验室 · PR 与合作欢迎 · <a href="https://github.com/XjuSelab">github.com/XjuSelab</a></sub>
 </div>
