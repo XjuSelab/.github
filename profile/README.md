@@ -20,8 +20,8 @@
 
 | 项目 | 简介 | 技术 | 状态 |
 | :-- | :-- | :--: | :--: |
-| [**📖 飞跃手册**](https://github.com/XjuSelab/xju-feiyue) | 面向新疆大学在校生与校友的开放知识库 / 飞跃笔记站 | `React` · `FastAPI` | 🟢 线上 |
-| [**🐧 FluxEnv**](https://github.com/XjuSelab/FluxEnv) | 一键 Ubuntu 环境初始化，集成 Vim · Zsh · Starship | `Shell` | 🟢 维护中 |
+| [**飞跃手册**](https://github.com/XjuSelab/xju-feiyue) | 面向新疆大学在校生与校友的开放知识库 / 飞跃笔记站 | `React` · `FastAPI` | 线上 |
+| [**FluxEnv**](https://github.com/XjuSelab/FluxEnv) | 一键 Ubuntu 环境初始化，集成 Vim · Zsh · Starship | `Shell` | 维护中 |
 
 ---
 
